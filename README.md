@@ -1,5 +1,8 @@
+# RouletteBot
 Discord bot to play Roulette
 
-Create your own discord bot on the discord developer portal.
+Create your discord bot on the discord developer portal following these instructions. https://discordpy.readthedocs.io/en/stable/discord.html
 
-input your own bot token into config.yaml
+Input your own bot token into config.yaml
+
+Enjoy
